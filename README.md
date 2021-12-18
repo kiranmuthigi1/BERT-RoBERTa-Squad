@@ -1,5 +1,5 @@
 # BERT-RoBERTa-Squad
-
+Here are the outputs for all the 18 models trained by us:
 <img width="527" alt="Screen Shot 2021-12-17 at 7 55 16 PM" src="https://user-images.githubusercontent.com/12792573/146629304-b7696ef7-e0e8-4f4c-9bab-69dc59ab03bf.png">
 <img width="514" alt="Screen Shot 2021-12-17 at 7 57 05 PM" src="https://user-images.githubusercontent.com/12792573/146629305-db477029-4757-4b6b-8e68-650b8caa7a77.png">
 <img width="648" alt="Screen Shot 2021-12-17 at 7 59 37 PM" src="https://user-images.githubusercontent.com/12792573/146629306-692086db-fd20-4bea-9323-48f3ffc109df.png">
