@@ -31,6 +31,9 @@ Apply the QNA model to it, extract the best matching subtext which would likely 
 
 Here is the solution diagram:
 
+<img width="867" alt="Screen Shot 2021-12-17 at 11 51 53 PM" src="https://user-images.githubusercontent.com/33013911/146629697-fe586357-0a44-45d7-a71d-6dfe451b0446.png">
+
+
 
 ## About this repo:
 
