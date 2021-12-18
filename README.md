@@ -33,6 +33,8 @@ This has two folders: Data and Scripts. The data folder has all the epoch-scores
 
 The scripts folder has all the notebooks for all the 18 combinations (split up by constant and decay lr).
 
+## Running this code:
+
 We recommend running these notebooks on a TPU on Google Colab. The Colab has cells to install any dependency that we may need (transformers, tokenizers, etc). In data, we provide vocab and merge files for RoBERTa.
 
 ## Results:
